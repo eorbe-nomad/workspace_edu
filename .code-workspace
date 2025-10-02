@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{ "path": "java" },
+		{ "path": "c-cpp" },
+		{ "path": "python" },
+		{ "path": "react" },
+		{ "path": "vue" },
+		{ "path": "thymeleaf" },
+		{ "path": "docs" }
+	],
+	"settings": {}
+}
